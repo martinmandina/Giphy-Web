@@ -19,7 +19,7 @@ import { SearchComponent } from './search/search.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
     HttpClientModule
   ],
   providers: [],
